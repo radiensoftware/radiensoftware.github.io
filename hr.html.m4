@@ -23,7 +23,7 @@
 <div id="nav">
 <ul>
 
-include(`hr.html.m4')
+include(`menu.m4')
 </ul>
 	</div>
 	
@@ -40,9 +40,8 @@ include(`hr.html.m4')
 
 <b>Dear Radien Alumni</b>      
 <br>      
-I am not readily available to do your ex-employee verification.
-Kindly instruct your recruiting company and verification companies 
-to verify your employment at Radien Software Private Limited, 
+Please instruct your recruiting company and verification 
+companies to verify your employment at Radien Software Private Limited, 
 using the following list. 
 
 Thanks very much.
