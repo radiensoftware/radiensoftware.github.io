@@ -54,9 +54,9 @@ include(`menu.m4')
 Tiruchirapalli District is located along the Kaveri River in Tamil Nadu, India. 
 The main town in Tiruchirappalli District is the city of Tiruchirappalli. 
 As of 2011, the district had a population of 27,22,290 with a sex-ratio of 1,013 females for every 1,000 males.
-
-Geography
-
+<br>
+<b>Geography</b>
+<br>
 Tiruchirappalli district lies at the heart of Tamil Nadu. 
 The district has an area of 4,404 square kilometers. 
 It is bounded in the north by Salem district, 
@@ -68,19 +68,14 @@ in the south by Madurai district and Sivagangai district,
 in the southwest by Dindigul district and, 
 in the west by Karur district. 
 Kaveri river flows through the length of the district and is the principal source of irrigation and water supply. 
-
-Demographics
-
-According to 2011 census, Tiruchirappalli district had a population of 27,22,290 
+<br>
+<b>Demographics<b>
+<br>
+According to 2011 census, Tiruchirappalli district had a population 
+of 27,22,290 
 with a sex-ratio of 1,013 females for every 1,000 males, 
 much above the national average of 929. 
-Scheduled Castes and Scheduled Tribes accounted for 17.14% and 0.67% of the population respectively. 
-The average literacy of the district was 74.9%, compared to the national average of 72.99%. 
-The district had a total of 698,404 households. There were a total of 12,13,979 workers, 
-comprising 1,61,657 cultivators, 3,19,720 main agricultural labourers, 
-25,174 in house hold industries, 5,75,778 other workers, 1,31,650 marginal workers, 
-9,012 marginal cultivators, 59,062 marginal agricultural labourers, 
-5,212 marginal workers in household industries and 58,364 other marginal workers.
+The average literacy of the district was 75%, compared to the national average of 73%. 
 </td>
 </tr>
 
