@@ -56,6 +56,7 @@ As of 2011, the district had a population of 27,22,290 with a sex-ratio of 1,013
 </p>
 <b>Geography</b>
 <br>
+<br>
 <p>
 Tiruchirappalli district lies at the heart of Tamil Nadu. 
 The district has an area of 4,404 square kilometers. 
@@ -70,6 +71,7 @@ in the west by Karur district.
 Kaveri river flows through the length of the district and is the principal source of irrigation and water supply. 
 </p>
 <b>Demographics</b>
+<br>
 <br>
 <p>
 According to 2011 census, Tiruchirappalli district had a population 
