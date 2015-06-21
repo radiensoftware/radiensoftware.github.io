@@ -3,7 +3,7 @@
 
 <head profile="http://gmpg.org/xfn/11">
 <meta http-equiv="Content-Type" content="text/html; charset=UTF-8" />
-<title>Radien Software, India - Trust - Mission and Vision</title>
+<title>Radien Software, India - TeraSort</title>
 	
 <link rel="stylesheet" href="http://radiensoftware.github.io/wp-content/themes/librio/style.css" type="text/css" media="screen" />
 <!--[if IE]><link rel="stylesheet" type="text/css" href="http://radiensoftware.github.io/wp-content/themes/librio/ie.css" media="screen" /><![endif]-->
@@ -16,7 +16,7 @@
 <div id="container">
 
 	<div id="header">
-		<h1><a href="http://radiensoftware.github.io/">Radien Software, Pondicherry</a><span>TeraSort</span></h1>
+		<h1><a href="http://radiensoftware.github.io/">Radien Software, India</a><span>TeraSort</span></h1>
 
 	</div>
 
@@ -38,7 +38,7 @@ include(`menu.m4')
 
 
 <div class="post">
-<h2>Philosophy</h2>
+<h2>TeraSort</h2>
 <br>
 <h3>1</h3>
 <iframe width="640" height="360" src="https://www.youtube.com/embed/d4B21WonJ6o?feature=player_detailpage" frameborder="0" allowfullscreen></iframe>
