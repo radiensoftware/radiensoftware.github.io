@@ -91,7 +91,7 @@ No. Engineer 			    	Id   Entry    Exit     Rehire   Exit Full  | Title at Exit,
 21. <a href="hr/hr-dax.jpg">Dhatchinamoorthy Bharathidasan</a>	1022 20100601 20101207 Eligible Done Full  | Software Engineer
 22. Revathi Panneerselvam		1023 YYYYMMDD YYYYMMDD Eligible Done Full  | Software Engineer
 23. BPOGirl1				1024 20100503 20101115 Eligible Done Full  | Software Engineer
-24. Priya Nadarajan			1025 20100503 20101115 Eligible Done Full  | Software Engineer
+24. <a href="hr/priya.pdf">Priya Nadarajan</a>			1025 20100503 20101115 Eligible Done Full  | Software Engineer
 25. Manodevi Something			1026 2010MMDD YYYYMMDD Eligible Done Full  | Software Engineer
 26. Name starts with G something	1027 2010MMDD YYYYMMDD Eligible Done Full  | Software Engineer
 27. Lakshmi Rangarajan 			1028 2010MMDD YYYYMMDD Eligible Done Full  | Software Engineer
