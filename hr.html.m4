@@ -97,7 +97,7 @@ No. Engineer 			    	Id   Entry    Exit     Rehire   Exit Full  | Title at Exit,
 27. Name starts with G something	1028 2010MMDD YYYYMMDD Eligible Done Full  | Software Engineer
 28. Lakshmi Rangarajan 			1029 2010MMDD YYYYMMDD Eligible Done Full  | Software Engineer
 29. <a href="hr/hr-arun.jpg">Arun Arumugam</a>			1030 20100606 20101130 Eligible Done Full  | Software Engineer
-30. Anandkumar Lakshmanan		1031 2012MMDD 20150214 Eligible Done Full  | Member Technical Staff, 
+30. Anandkumar Lakshmanan		1031 20120223 20150214 Eligible Done Full  | Member Technical Staff, 
                                                                                        Orzota Big Data Product Engineering
 31. Yazhini Subramanian			1032 2012MMDD YYYYMMDD Eligible Done Full  | Software Engineer
 32. Sasikumar Chakravarthi		1033 2012MMDD YYYYMMDD Eligible Done Full  | System and Network Administrator
