@@ -1,5 +1,5 @@
 #!/bin/sh
-PAGES="index hr contact philosophy district-trichy terasort"
+PAGES="index hr contact philosophy"
 for page in $PAGES
 do
 	[ -f $page.html ] && mv -f $page.html $page.html-
